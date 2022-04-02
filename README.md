@@ -1,3 +1,3 @@
 # starship-game
-starship two-player game build with pygame
+ two-player game build with pygame
 
